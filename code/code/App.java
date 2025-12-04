@@ -1,8 +1,9 @@
-/**
- * App.java
- * Punto de entrada del programa.
- * Cada línea está comentada para explicar el flujo completo del programa.
- */
+/*---------------------------------------------------------------------------*/
+/* Program Assignment: Program 3 - PSP 0.1                                   */
+/* Name: Rodriguez Quintero Luis Rodolfo                                     */
+/* Date: 30/Nov/2025                                                         */
+/* Description: Clase App: clase con método main para ejecutar la aplicación.*/
+/*---------------------------------------------------------------------------*/
 public class App {
 
     public static void main(String[] args) {

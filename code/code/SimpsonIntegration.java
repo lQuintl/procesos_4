@@ -1,7 +1,9 @@
-/**
- * SimpsonIntegration.java
- * Implementación detallada de la Regla de Simpson compuesta.
- */
+/*---------------------------------------------------------------------------*/
+/* Program Assignment: Program 3 - PSP 0.1                                   */
+/* Name: Rodriguez Quintero Luis Rodolfo                                     */
+/* Date: 30/Nov/2025                                                         */
+/* Description: Clase SimpsonIntegration: clase con método main para ejecutar la aplicación.*/
+/*---------------------------------------------------------------------------*/
 public class SimpsonIntegration {
 
     public static double integrate(GammaFunction f, double a, double b, int segments) {

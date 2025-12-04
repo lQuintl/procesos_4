@@ -1,0 +1,5 @@
+Time Log:
+Analysis: 30m
+Coding: 45m
+Docs: 40m
+Testing: 20m

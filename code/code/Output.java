@@ -1,3 +1,9 @@
+/*---------------------------------------------------------------------------*/
+/* Program Assignment: Program 3 - PSP 0.1                                   */
+/* Name: Rodriguez Quintero Luis Rodolfo                                     */
+/* Date: 30/Nov/2025                                                         */
+/* Description: Output App: clase con método main para ejecutar la aplicación.*/
+/*---------------------------------------------------------------------------*/
 import java.io.*;
 import java.time.*;
 import java.time.format.*;

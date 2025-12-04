@@ -1,7 +1,9 @@
-/**
- * GammaFunction.java
- * Implementa el integrando f(x) = x^(n-1) * e^(-x)
- */
+/*---------------------------------------------------------------------------*/
+/* Program Assignment: Program 3 - PSP 0.1                                   */
+/* Name: Rodriguez Quintero Luis Rodolfo                                     */
+/* Date: 30/Nov/2025                                                         */
+/* Description: Clase GammaFunction: clase con método main para ejecutar la aplicación.*/
+/*---------------------------------------------------------------------------*/
 public class GammaFunction {
 
     private final double n;   // Parámetro n almacenado en objeto
