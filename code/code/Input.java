@@ -1,11 +1,12 @@
+/*---------------------------------------------------------------------------*/
+/* Program Assignment: Program 3 - PSP 0.1                                   */
+/* Name: Rodriguez Quintero Luis Rodolfo                                     */
+/* Date: 30/Nov/2025                                                         */
+/* Description: Clase Input: clase con método main para ejecutar la aplicación.*/
+/*---------------------------------------------------------------------------*/
+
 import java.io.*;
 
-/**
- * Input.java
- * Este archivo lee input.txt línea por línea y extrae dos parámetros:
- * n       -> valor double para Gamma(n)
- * segments-> valor entero par para Simpson
- */
 public class Input {
 
     public static double[] read(String filename) throws Exception {

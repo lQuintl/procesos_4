@@ -1,0 +1,4 @@
+Test Log:
+1) n=5, seg=1000 → OK
+2) seg odd → Error caught
+3) Missing input → Error caught
